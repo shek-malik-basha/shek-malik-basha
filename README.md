@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB and Data Analytics**
 
-- 👨‍💻 Portfolio: [[https://shek-malik-basha.github.io/Portfolio/#](https://shek-malik-basha.github.io/Portfolio/#)](https://portfolio-kappa-three-5iq96sbq73.vercel.app/)
+- 👨‍💻 Portfolio: https://portfolio-kappa-three-5iq96sbq73.vercel.app/
 
 - 💬 Ask me about **Python, Java, HTML, CSS, JavaScript, React and Data Science**
 
