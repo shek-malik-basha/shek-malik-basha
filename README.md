@@ -32,7 +32,7 @@
 
 <h2>⚡ &nbsp;SYSTEM.init( <code>Malik</code> )</h2>
 
-```javascript
+
 const malik = {
     identity: "Shek Malik Basha",
     education: "B.Tech CSE — Data Science",
