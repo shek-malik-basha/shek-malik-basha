@@ -1,191 +1,160 @@
-<h1 align="center">Hi 👋, I'm Shek Malik Basha</h1>
+<!-- ========================= FUTURISTIC HEADER ========================= -->
 
-<h3 align="center">MERN Stack Developer ⚡ | Data Analytics & ML 📊 | DSA Explorer 🧠</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%92%BB;Data+Analytics+%26+Machine+Learning+%F0%9F%93%8A;DSA+Explorer+%F0%9F%A7%A0;Building+with+Data+%26+Code+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,18,20,24&text=SHEK%20MALIK%20BASHA&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Turning%20Ideas%20Into%20Code%20%7C%20Turning%20Data%20Into%20Insights&descAlignY=58&descSize=16"/>
 
-<p align="center">
-  <a href="https://portfolio-kappa-three-5iq96sbq73.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/malik-basha-shek/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Shaik-Malik/">
-    <img src="https://img.shields.io/badge/LeetCode-Shaik--Malik-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=00E7FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=%E2%9A%A1+MERN+Stack+Developer;%F0%9F%93%8A+Data+Analytics+%26+Machine+Learning;%F0%9F%A7%A0+DSA+%26+Problem+Solving;%F0%9F%9A%80+Building+Scalable+Digital+Experiences;%F0%9F%92%A1+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" />
 
----
+<br>
 
-## 👨‍💻 About Me
+<a href="https://portfolio-kappa-three-5iq96sbq73.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00E7FF?style=for-the-badge&logo=vercel&logoColor=000000"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/malik-basha-shek/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Shaik-Malik/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shek-malik-basha&label=PROFILE+VIEWS&color=00b8d4&style=flat-square"/>
+
+</div>
+
+<!-- ========================= ABOUT ========================= -->
+
+<br>
+
+<h2>⚡ &nbsp;SYSTEM.init( <code>Malik</code> )</h2>
 
 ```javascript
 const malik = {
-    name: "Shek Malik Basha",
-    role: "MERN Stack Developer",
-    education: "B.Tech CSE - Data Science",
+    identity: "Shek Malik Basha",
+    education: "B.Tech CSE — Data Science",
 
-    interests: [
-        "Full Stack Development",
-        "Data Analytics",
-        "Machine Learning",
-        "Problem Solving"
-    ],
+    focus: {
+        development: "MERN Stack",
+        analytics: ["Excel", "SQL", "Power BI"],
+        intelligence: "Machine Learning",
+        problemSolving: "Data Structures & Algorithms"
+    },
 
-    currentlyWorkingOn: [
-        "MERN Stack",
-        "Data Structures & Algorithms",
-        "Placement Preparation"
-    ],
+    stack: ["MongoDB", "Express.js", "React", "Node.js"],
 
-    motto: "Learn. Build. Improve. Repeat."
+    currentMission: "Build. Analyze. Solve. Improve.",
+
+    status: "Always Learning ⚡"
 };
-```
+<table> <tr> <td width="50%">
+> whoami
 
-* 🎓 Pursuing **B.Tech in Computer Science & Engineering – Data Science**
-* 💻 Building applications using the **MERN Stack**
-* 📊 Interested in **Data Analytics & Machine Learning**
-* 🧠 Improving my **DSA & Problem Solving**
-* 🚀 I enjoy turning ideas into practical projects
-* 🌱 Constantly learning new technologies and improving my development skills
+🎓 CSE — Data Science student
 
----
+⚡ Building modern applications with the MERN Stack
 
-# ⚔️ Tech Arsenal
+📊 Exploring Data Analytics & Machine Learning
 
-### 💻 Programming Languages
+🧠 Strengthening DSA & Problem Solving
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+🚀 Building projects that solve practical problems
 
-### ⚡ MERN Stack
+</td> <td width="50%">
+> current_focus
+MERN Development    █████████░
+Data Analytics      ████████░░
+Machine Learning    ███████░░░
+DSA                 ████████░░
+STATUS : ONLINE
+MODE   : LEARNING
+GOAL   : BUILD → SOLVE → GROW
+</td> </tr> </table> <!-- ========================= TECH STACK ========================= --> <h2>🧬 &nbsp;TECH MATRIX</h2> <div align="center">
+// CORE LANGUAGES
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" height="55"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
+<br><br>
 
-### 📊 Data Analytics & Machine Learning
+// MERN ECOSYSTEM
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" height="55"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+<br><br>
 
-### 🎨 Frontend
+// DATA ANALYTICS + ML
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/EXCEL-111827?style=for-the-badge&logo=microsoftexcel&logoColor=21A366"/> <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=00A4EF"/> <img src="https://img.shields.io/badge/POWER_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-</p>
+<br><br>
 
-### 🛠️ Tools & Platforms
+// FRONTEND + DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,git,github,vscode&theme=dark" height="55"/> </div> <!-- ========================= GITHUB ANALYTICS ========================= --> <br> <h2>📡 &nbsp;GITHUB TELEMETRY</h2> <div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shek-malik-basha&show_icons=true&theme=transparent&hide_border=true&title_color=00E7FF&icon_color=00E7FF&text_color=C9D1D9&ring_color=00E7FF"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shek-malik-basha&layout=compact&theme=transparent&hide_border=true&title_color=00E7FF&text_color=C9D1D9"/>
 
-# 📊 GitHub Analytics
+<br>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=shek-malik-basha&theme=transparent&hide_border=true&ring=00E7FF&fire=FF6B00&currStreakLabel=00E7FF&sideLabels=C9D1D9&dates=8B949E"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+</div> <!-- ========================= ACTIVITY GRAPH ========================= --> <h2>🌐 &nbsp;ACTIVITY NETWORK</h2> <div align="center">
 
----
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shek-malik-basha&bg_color=00000000&color=00E7FF&line=00E7FF&point=FFFFFF&area=true&hide_border=true"/>
 
-# 🧠 Coding Journey
+</div> <!-- ========================= LEETCODE ========================= --> <h2>🧠 &nbsp;CODING TERMINAL</h2> <div align="center"> <a href="https://leetcode.com/u/Shaik-Malik/"> <img width="58%" src="https://leetcard.jacoblin.cool/Shaik-Malik?theme=dark&font=JetBrains%20Mono&ext=heatmap"/> </a>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Shaik-Malik/">
-    <img src="https://leetcard.jacoblin.cool/Shaik-Malik?theme=dark&font=Fira%20Code&ext=heatmap" />
-  </a>
-</p>
+<br><br>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Shaik-Malik/">
-    <img src="https://img.shields.io/badge/Practice%20With%20Me-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<a href="https://leetcode.com/u/Shaik-Malik/"> <img src="https://img.shields.io/badge/OPEN_LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </div> <!-- ========================= PROJECTS ========================= --> <br> <h2>🚀 &nbsp;PROJECT LAB</h2> <table> <tr> <td width="50%" valign="top">
+🫁 Pneumonia Detection
 
----
+Deep-learning system for detecting pneumonia from chest X-ray images using a CNN-based architecture.
 
-# 🚀 Featured Projects
+Stack
 
-### 🫁 Pneumonia Detection
+Python CNN Deep Learning Streamlit
 
-Deep Learning based system designed to detect pneumonia from chest X-ray images using CNN.
+</td> <td width="50%" valign="top">
+🎬 Movie Recommendation
 
-`Python` `Deep Learning` `CNN` `Machine Learning`
+Interactive movie discovery and recommendation application built with modern web technologies.
 
----
+Stack
 
-### ❤️ Heart Disease Prediction
+React JavaScript API Appwrite
 
-Machine learning project for predicting the likelihood of heart disease using patient health data.
+</td> </tr> <tr> <td width="50%" valign="top">
+❤️ Heart Disease Prediction
 
-`Python` `Machine Learning` `Data Analysis` `Scikit-learn`
+Machine-learning system that analyzes patient attributes to estimate heart-disease likelihood.
 
----
+Stack
 
-### 🎬 Movie Recommendation System
+Python ML Scikit-learn Data Analysis
 
-Movie discovery and recommendation application built using modern web technologies and external movie data.
+</td> <td width="50%" valign="top">
+🏸 Indoor Sports Booking
 
-`React` `JavaScript` `API` `Appwrite`
+Web platform designed to simplify indoor sports venue discovery and slot booking.
 
----
+Stack
 
-### 🏸 Indoor Sports Booking System
+HTML CSS JavaScript
 
-Web application designed to simplify indoor sports venue and slot booking.
+</td> </tr> </table> <!-- ========================= CONTRIBUTION SNAKE ========================= --> <br> <h2>🐍 &nbsp;CONTRIBUTION STREAM</h2> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shek-malik-basha/shek-malik-basha/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shek-malik-basha/shek-malik-basha/output/github-contribution-grid-snake.svg"> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shek-malik-basha/shek-malik-basha/output/github-contribution-grid-snake.svg"> </picture> </div> <!-- ========================= CONTACT ========================= --> <br> <h2>📡 &nbsp;ESTABLISH CONNECTION</h2> <div align="center"> <a href="https://portfolio-kappa-three-5iq96sbq73.vercel.app/"> <img src="https://img.shields.io/badge/PORTFOLIO-Explore-00E7FF?style=for-the-badge&logo=vercel&logoColor=black"/> </a> <a href="https://www.linkedin.com/in/malik-basha-shek/"> <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/Shaik-Malik/"> <img src="https://img.shields.io/badge/LEETCODE-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a>
 
-`HTML` `CSS` `JavaScript`
+<br><br>
 
----
+<code>OPEN TO OPPORTUNITIES</code>
+  •  
+<code>OPEN TO COLLABORATION</code>
+  •  
+<code>ALWAYS LEARNING</code>
 
-# 🌐 Let's Connect
+</div> <!-- ========================= FOOTER ========================= --> <br> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=%3E+Code.+Analyze.+Solve.+Evolve.;%3E+Consistency+compounds.;%3E+Initializing+next+challenge..."/>
 
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12,14,18,20,24"/>
 
-<a href="https://www.linkedin.com/in/malik-basha-shek/">
-  <img src="https://img.shields.io/badge/LinkedIn-Malik%20Basha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/Shaik-Malik/">
-  <img src="https://img.shields.io/badge/LeetCode-Shaik--Malik-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://portfolio-kappa-three-5iq96sbq73.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
-</p>
-
-<h3 align="center">⚡ Learn • Build • Analyze • Improve ⚡</h3>
+</div> ```
