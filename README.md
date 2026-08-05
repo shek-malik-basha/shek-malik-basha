@@ -74,44 +74,74 @@ const malik = {
 };
 ```
 
-<table>
+<h2>⚡ ABOUT ME</h2>
+
+<table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
-### `> whoami`
+<h3>👨‍💻 About Me</h3>
 
-🎓 Pursuing **B.Tech CSE — Data Science**
+🎓 Pursuing <b>B.Tech CSE — Data Science</b>
 
-⚡ Building applications with the **MERN Stack**
+<br><br>
 
-📊 Exploring **Data Analytics & Machine Learning**
+⚡ Building applications with the <b>MERN Stack</b>
 
-🧠 Strengthening **DSA & Problem Solving**
+<br><br>
 
-🚀 Building practical projects with code & data
+📊 Exploring <b>Data Analytics & Machine Learning</b>
+
+<br><br>
+
+🧠 Strengthening <b>DSA & Problem Solving</b>
+
+<br><br>
+
+🚀 Building practical projects with <b>Code + Data</b>
+
+<br><br>
 
 🌱 Continuously learning and experimenting
 
 </td>
 
+
 <td width="50%" valign="top">
 
-### `> current_focus`
+<h3>🎯 Current Focus</h3>
 
-```text
-MERN Development    █████████░
-Data Analytics      ████████░░
-Machine Learning    ███████░░░
-DSA                 ████████░░
-```
+<br>
 
-```text
-STATUS  : ONLINE
-MODE    : LEARNING
-MISSION : BUILD → SOLVE → GROW
-```
+💻 <b>MERN Stack Development</b>
+
+<br><br>
+
+📈 <b>Data Analytics</b> — Excel • SQL • Power BI
+
+<br><br>
+
+🤖 <b>Machine Learning</b>
+
+<br><br>
+
+🧩 <b>Data Structures & Algorithms</b>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00E7FF?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/MODE-LEARNING-8A2BE2?style=for-the-badge"/>
+
+</div>
 
 </td>
+
 </tr>
 </table>
 
@@ -167,24 +197,28 @@ MISSION : BUILD → SOLVE → GROW
 <!-- ===================================================== -->
 <!--                   GITHUB ANALYTICS                    -->
 <!-- ===================================================== -->
-
-<h2>📡 GITHUB TELEMETRY</h2>
+<h2>📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=shek-malik-basha&show_icons=true&theme=transparent&hide_border=true&title_color=00E7FF&icon_color=00E7FF&text_color=C9D1D9&ring_color=00E7FF"/>
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shek-malik-basha&theme=github_dark"
+/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shek-malik-basha&layout=compact&theme=transparent&hide_border=true&title_color=00E7FF&text_color=C9D1D9"/>
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shek-malik-basha&theme=github_dark"
+/>
 
-<br><br>
+<br>
 
-<img width="70%"
-src="https://streak-stats.demolab.com?user=shek-malik-basha&theme=transparent&hide_border=true&ring=00E7FF&fire=FF6B00&currStreakLabel=00E7FF&sideLabels=C9D1D9&dates=8B949E"/>
+<img
+width="98%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shek-malik-basha&theme=github_dark"
+/>
 
 </div>
-
 <br>
 
 <!-- ===================================================== -->
